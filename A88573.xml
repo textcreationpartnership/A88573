@@ -1,0 +1,513 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A treaty of commerce, navigation, and marine affairs, concluded and agreed on at Reswick between His Most Christian Majesty's embassadors and plenipotentiaries, on the one part; and the embassadors and plenipotentiaries of the Lords the States General of the United Provinces of the Netherlands, on the other. With some account of the proceedings since between the French and Dutch commissioners relating to the tariff. Never before in English. Translated from the Dutch and French copies.</title>
+            <title>Treaty of Ryswick (1697)</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1699</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 75 KB of XML-encoded text transcribed from 15 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88573</idno>
+            <idno type="STC">Wing L3139AB</idno>
+            <idno type="STC">ESTC R215015</idno>
+            <idno type="EEBO-CITATION">99896117</idno>
+            <idno type="PROQUEST">99896117</idno>
+            <idno type="VID">154053</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88573)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 154053)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2395:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A treaty of commerce, navigation, and marine affairs, concluded and agreed on at Reswick between His Most Christian Majesty's embassadors and plenipotentiaries, on the one part; and the embassadors and plenipotentiaries of the Lords the States General of the United Provinces of the Netherlands, on the other. With some account of the proceedings since between the French and Dutch commissioners relating to the tariff. Never before in English. Translated from the Dutch and French copies.</title>
+                  <title>Treaty of Ryswick (1697)</title>
+                  <author>France. Treaties, etc. United Provinces of the Netherlands, 1697 Sept. 20.</author>
+               </titleStmt>
+               <extent>[4], 24 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed, and sold by A. Baldwin near the Oxford-arms in Warwick-lane,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>M DC XCIX. [1699]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Other signatories include: England, Spain, and the Holy Roman Empire.</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Treaty of Ryswick (1697) --  Early works to 1800.</term>
+               <term>Netherlands --  Foreign relations --  France --  Early works to 1800.</term>
+               <term>France --  Foreign relations --  Netherlands --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-10</date>
+            <label>Enrique Valdive</label>Sampled and proofread</change>
+         <change>
+            <date>2013-10</date>
+            <label>Enrique Valdive</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:154053:1" rendition="simple:additions"/>
+            <p>A TREATY OF <hi>Commerce, Navigation,</hi> AND Marine Affairs, Concluded and Agreed on at RESWICK,</p>
+            <p>BETWEEN His Moſt Chriſtian Majeſty's Embaſſadors and Plenipotentiaries, on the one part;</p>
+            <p>AND The Embaſſadors and Plenipotentiaries of the Lords the States General of the United Pro<g ref="char:EOLhyphen"/>vinces of the <hi>Netherlands,</hi> on the other.</p>
+            <p>WITH Some Account of the Proceedings ſince be<g ref="char:EOLhyphen"/>tween the <hi>French</hi> and <hi>Dutch</hi> Commiſſioners rela<g ref="char:EOLhyphen"/>ting to the TARIFF.</p>
+            <p>
+               <hi>Never before in</hi> Engliſh.</p>
+            <p>Tranſlated from the <hi>Dutch</hi> and <hi>French</hi> Copies.</p>
+            <p>
+               <hi>LONDON</hi> Printed, and Sold by <hi>A. Baldwin</hi> near the <hi>Oxford-arms</hi> in <hi>Warwick-lane,</hi> MDCXCIX.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:154053:2"/>
+            <pb facs="tcp:154053:2"/>
+            <head>TO THE READER.</head>
+            <p>THE Buſineſs of ſetling the Tariff between <hi>Holland</hi> and <hi>France</hi> has been ſo long in agitation, ſo generally talked of, and yet ſo little underſtood as to the eſſential Grounds thereof, that it has been thought a Work not un<g ref="char:EOLhyphen"/>acceptable to the Publick, to give a clear View of it; and ſince the ſame can appear no where ſo well as in the diſtinct Treaty of Commerce and Na<g ref="char:EOLhyphen"/>vigation, that has been ſome time ſince concluded between the ſaid Nations, which has never yet been expoſed in <hi>Engliſh,</hi> we have thought fit to publiſh the ſame in the full Extent of it, with the ſeparate Article relating to the Impoſition of fifty Pence <hi>per</hi> Tun upon Strangers, (about which the main of the Contest has been) whereby it will appear how Just and Equitable the <hi>Dutch</hi> Pretentions are, and that it's a meer Sham for their Opponents to ſay, <hi>They underſtood not what they did, when they a<g ref="char:EOLhyphen"/>greed to it;</hi> as it may be of ſome good uſe to our ſelves when we come to treat about Trade with that Nation, who, by what has followed in conſequence to the enſuing Treaty, can never be bound too fast.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:154053:3"/>
+            <pb n="1" facs="tcp:154053:3"/>
+            <head>A <hi>Treaty of Commerce,</hi> Concluded and Agreed upon at <hi>RESWICK</hi> in <hi>HOLLAND,</hi> ON The 20th of <hi>September,</hi> 1697. BETWEEN His Moſt Chriſtian Majeſty's Embaſſa<g ref="char:EOLhyphen"/>dors and Plenipotentiaries, on the one part; AND The Embaſſadors and Plenipotentiaries of the Lords States General of the United Provinces of the <hi>Netherlands,</hi> on the other.</head>
+            <p>THE Treaty of Peace that has been concluded this Day between the moſt Chriſtian King and the Lords States General of the United Provinces, having put a final Period to all the Cauſes of Diſcontent, which, for ſome time paſt, had alienated the Af<g ref="char:EOLhyphen"/>fection which his moſt Chriſtian Majeſty has always had for their Good and Proſperity, according to the Example of the Kings his Pre<g ref="char:EOLhyphen"/>deceſſors; and the ſaid Lords the States General returning alſo to the ſame Deſires, which they have heretofore teſtified for the Grandeur of <hi>France,</hi> and into the Sentiments of a ſincere Acknowledgment of all the Obligations and conſiderable Advantages which they have formerly received: His Ma<g ref="char:EOLhyphen"/>jeſty
+<pb n="2" facs="tcp:154053:4"/>being unwilling to obſtruct any thing that may confirm it; and the ſaid States General being no leſs deſirous to perpetuate the ſame, have thought there could be no better and more aſſured Means pitch'd upon to effect it, than by eſtabliſhing a free and perfect Correſpondence between their Subjects both on the one ſide and t'other, and for that purpoſe to re<g ref="char:EOLhyphen"/>gulate their particular Intereſts, in point of Commerce, Navigation and Maritime Affairs, by the moſt proper Laws and Agreements that can be, for the prevention of all the Inconveniencies that may leſſen a good Cor<g ref="char:EOLhyphen"/>reſpondence between them: His ſaid Majeſty, in compliance with the Deſires of the ſaid States General, appointed the Sieur <hi>Nicholas Auguſtus de Harlay,</hi> Knight, Lord of <hi>Bonneuil,</hi> Count of <hi>Celi,</hi> Councellor in Ordinary to his Majeſty in his Council of State; the Sieur <hi>Lovis Verjus,</hi> Knight, Count of <hi>Crecy,</hi> the King's Councellor in Ordinary in his Council of State, Marqueſs of <hi>Treon,</hi> Baron of <hi>Couvay,</hi> Lord of <hi>Boulay,</hi> of the two Churches of <hi>Fortiſle,</hi> of <hi>Me<g ref="char:EOLhyphen"/>villet, &amp;c.</hi> and the Sieur <hi>Francis de Callieres,</hi> Lord of <hi>Callieres, la Roche, Chellay</hi> and <hi>Gigny;</hi> to be his Majeſty's Embaſſadors Extraordinary and Plenipo<g ref="char:EOLhyphen"/>tentiaries in the Aſſembly for the Negotiation of the Peace: And the ſaid Lords the States General, the Sieurs <hi>Antony Heinſius,</hi> Councellor and Pen<g ref="char:EOLhyphen"/>ſionary of the States of <hi>Holland</hi> and <hi>West-Frieſland,</hi> Keeper of the Great Seal, and Superintendant of the Fiefs; <hi>Everhard de Weede,</hi> Lord of <hi>Weede, Dijckvelt, Rateles, &amp;c.</hi> Lord Proprietor of the Town of <hi>Oudewater,</hi> Dean and Rector of the Imperial Chapter of St. <hi>Mary</hi> at <hi>
+                  <g ref="char:V">Ʋ</g>trecht,</hi> Dijck-Grave of the River <hi>Rhine</hi> in the Province of <hi>
+                  <g ref="char:V">Ʋ</g>trecht,</hi> Preſident of the States of the ſaid Province; and <hi>William de Haren,</hi> Grietman of <hi>Bilt,</hi> the Nobilities De<g ref="char:EOLhyphen"/>puty of the States of <hi>Frieſland,</hi> and Curator of the Univerſity of <hi>Frane<g ref="char:EOLhyphen"/>ker,</hi> Deputies in their Aſſembly on the part of the States of <hi>Holland, <g ref="char:V">Ʋ</g>trecht</hi> and <hi>Frieſland,</hi> to Confer and Agree upon a Treaty of Commerce and Na<g ref="char:EOLhyphen"/>vigation in the following manner, by Vertue of their Powers reſpective<g ref="char:EOLhyphen"/>ly produced by them, the Copies whereof you have hereafter inſerted.</p>
+            <div type="part">
+               <div n="1" type="section">
+                  <head>I.</head>
+                  <p>THE Subjects of his Majeſty and of the Lords the States General of the United Provinces of the <hi>Netherlands,</hi> ſhall reciprocally enjoy the ſame Liberty, in point of Commerce and Navigation, which they have al<g ref="char:EOLhyphen"/>ready had before this War, in all the Kingdoms, States and Provinces of the one and the other Party.</p>
+               </div>
+               <div n="2" type="section">
+                  <head>II.</head>
+                  <p>And thus they ſhall not for the future exerciſe any ſorts of Hoſtilities or Violences againſt each other, either by Sea or Land, or in Rivers, Roads and freſh Waters, under any Name or Pretence whatſoever; and more<g ref="char:EOLhyphen"/>over the Subjects of his ſaid Majeſty, cannot take any Commiſſions for particular Ships, or Letters of Reprizal, from any Princes or States, who are Enemies to the ſaid Lords the States General, and neither trouble nor damnifie them any manner of way, by Vertue of ſuch Commiſſions or Letters of Reprizal, nor even to rove with them upon the Sea, under the Penalty of being proſecuted and puniſhed as Pirates; which ſhall be
+<pb n="3" facs="tcp:154053:4"/>reciprocally obſerved by the Subjects of the United Provinces, in reſpect to his Majeſty's Subjects; and to this end there ſhall be moſt expreſs and appoſite Prohibitions publiſhed and renewed, as often as there ſhall be oc<g ref="char:EOLhyphen"/>caſion on either part, that they ſhall by no means make uſe of ſuch Com<g ref="char:EOLhyphen"/>miſſions or Letters of Reprizals, under the fore-mentioned Penalties, which ſhall be ſeverely executed upon all Offenders in that kind, beſides, an en<g ref="char:EOLhyphen"/>tire Reſtitution to be made to thoſe who have received the Damage.</p>
+               </div>
+               <div n="3" type="section">
+                  <head>III.</head>
+                  <p>And in order to obviate, as much as is poſſible, all thoſe Inconveni<g ref="char:EOLhyphen"/>ences, that may ariſe by the taking of Prizes through Inadvertency, or otherwiſe, and more eſpecially in remote Parts; it hath been agreed, That if any ſuch Prizes, on either ſide, ſhall be made in the <hi>Baltick</hi> Sea, or that of the North, from <hi>Torneuſe,</hi> in <hi>Norway,</hi> to the end of the Chan<g ref="char:EOLhyphen"/>nel, in the ſpace of four Weeks, or from the end of the ſaid Channel, to the Cape of St. <hi>Vincent,</hi> in the ſpace of ſix Weeks, and from thence in the <hi>Mediterranean</hi> Sea, and as far as the Line, in the ſpace of ten Weeks, and on the other ſide of the Line, and all other parts of the World, in the ſpace of eight Months, the ſame to be computed from the publicati<g ref="char:EOLhyphen"/>on of theſe Preſents; the ſaid Prizes and Damages, which ſhall be made on either ſide, after the Terms prefixed, ſhall be accounted for, and whatever ſhall be ſo taken, ſhall be reſtored, with a Compenſation made for all Damages that may ariſe thereby.</p>
+               </div>
+               <div n="4" type="section">
+                  <head>IV.</head>
+                  <p>All Letters of Mart or Reprizals, which may have been granted here<g ref="char:EOLhyphen"/>tofore, for any Cauſe whatſoever, are declared Null, and cannot here<g ref="char:EOLhyphen"/>after be granted by any of the ſaid Allies, to the Prejudice of the other's Subjects; if it be not only in caſe of a manifeſt Denial of Juſtice, which yet cannot be taken for granted, if his Petition, who makes a Demand of the ſaid Reprizals, be not communicated to the Miniſter that ſhall be upon the Place, on the part of that State, againſt whoſe Subjects they ought to be granted; to the end, that in the ſpace of four Months, or ſooner if poſſible, he may inform himſelf to the contrary, or procure that Juſtice be done, as required.</p>
+               </div>
+               <div n="5" type="section">
+                  <head>V.</head>
+                  <p>His Majeſty's particular Subjects are not to be Sued or Arreſted as to their Perſons or Goods, for any thing that may be owing from His Ma<g ref="char:EOLhyphen"/>jeſty; nor the particular Subjects of the ſaid Lords the States General, for the publick Debts of the ſaid States.</p>
+               </div>
+               <div n="6" type="section">
+                  <head>VI.</head>
+                  <p>The Subjects and Inhabitants, of the Countries under his Majeſty's O<g ref="char:EOLhyphen"/>bedience, and of the Lords States General, ſhall Live, Converſe, and keep Company one with another, with all good Friendſhip and Correſpon<g ref="char:EOLhyphen"/>dence,
+<pb n="4" facs="tcp:154053:5"/>and mutually enjoy the liberty of Commerce and Navigation in Europe, in all the Bounds of each others Country, of all ſorts of Mer<g ref="char:EOLhyphen"/>chandizes and Wares, whereof the Commerce and Tranſportation is not generally and univerſally Prohibited to all, as well Subjects as Strangers, by the Laws and Conſtitution of either of the States.</p>
+               </div>
+               <div n="7" type="section">
+                  <head>VII.</head>
+                  <p>And for this end, his Majeſty's Subjects, and thoſe of the Lords States General of the United Provinces, may freely, and without Interruption frequent, with their Ships and Merchandizes, the Countries, Lands, Towns, Ports, Places and Rivers, that belong to either States, to carry thi<g ref="char:EOLhyphen"/>ther and Sell the ſame to all ſorts of Perſons without diſtinction; to Buy, Traffick and Tranſport all kinds of Merchandizes, whoſe Importation or Exportation and Tranſport, is not forbidden to his Majeſty's Subjects and thoſe of the States General, without that this Liberty ought to be recipro<g ref="char:EOLhyphen"/>cally prohibited, limited or reſtrained, by any Priviledge, Commiſſion or particular Grant; and without its being lawful for either the one or the other, to concede or beſtow upon their Subjects any Immunities, Bene<g ref="char:EOLhyphen"/>fits, free Gifts, or other Advantages, above thoſe of the other, or to their Prejudice; and without the ſaid Subjects being obliged on either ſide, to pay greater, or other Cuſtoms, Charges, Gabels, or Impoſitions what<g ref="char:EOLhyphen"/>ſoever laid upon their Perſons, Goods, Wares, Ships or Fraughts, directly or indirectly, under whatever Name, Title or Pretence it may be, above thoſe which ſhall be paid by the proper and natural Subjects, both of the one and the other Party.</p>
+               </div>
+               <div n="8" type="section">
+                  <head>VIII.</head>
+                  <p>The Subjects of the States General are not to be treated otherwiſe, or in a worſe manner, in reſpect to the Cuſtom due for Anchorage, <hi>Paris</hi> Sol, and all other Charges and Impoſitions, however denominated, whe<g ref="char:EOLhyphen"/>ther under the Title of the Cuſtom of Strangers, or otherwiſe, without any Exception or Reſerve, than the Subjects themſelves of his moſt Chri<g ref="char:EOLhyphen"/>ſtian Majeſty, who are not Freemen of the ſaid Places, where the ſaid Cuſtoms are raiſed.</p>
+               </div>
+               <div n="9" type="section">
+                  <head>IX.</head>
+                  <p>As to what concerns the <hi>Levant</hi> Trade into <hi>France,</hi> and the Twenty <hi>per Cent.</hi> which is raiſed upon that Account; the Subjects of the States General of the United Provinces, ſhall alſo enjoy the ſame Liberty and Immunity as the moſt Chriſtian King's Subjects, ſo far, that it ſhall be lawful for the ſaid Subjects of the States General to carry Merchandizes into the <hi>Levant, Marſeilles,</hi> and other free Ports in <hi>France,</hi> as well in their own Bottoms, as in <hi>French</hi> Veſſels; and that neither upon the one nor the other Account, ſhall the ſaid Subjects of the States General be liable to the ſaid Twenty <hi>per Cent.</hi> but in ſuch Caſes only wherein the <hi>French</hi> them<g ref="char:EOLhyphen"/>ſelves are liable, who carry Merchandizes in their own Veſſels to <hi>Marſeil<g ref="char:EOLhyphen"/>les,</hi>
+                     <pb n="5" facs="tcp:154053:5"/>or other free Ports, and when this ſame ſhall effect no alteration to the Prejudice of the ſaid Subjects of the ſaid States General.</p>
+               </div>
+               <div n="10" type="section">
+                  <head>X.</head>
+                  <p>It ſhall be lawful for the Subjects of the States General to import, en<g ref="char:EOLhyphen"/>ter and ſell both in <hi>France</hi> and the New Conqueſts, with all freedom and without any moleſtation, pickled Herring, without diſtinction, and with<g ref="char:EOLhyphen"/>out being obliged to Pack them again; and, notwithſtanding all the E<g ref="char:EOLhyphen"/>dicts, Declarations and Orders of Council that have been made to the contrary, and particularly thoſe of <hi>July</hi> the 15th and 14th of <hi>September,</hi> 1687. whereby it's prohibited to import or bring into the Ports of <hi>France</hi> or New Conqueſts any Herring, otherwiſe than in Pickle and ſalted with <hi>Brovage</hi> Salt, and enjoyned that the ſaid Herrings be brought into the Sea-Ports pickled in Barrels, eighteen whereof ſhould make twelve of packed Herring, which Arreſts ſhall be revoked and remain of none ef<g ref="char:EOLhyphen"/>fect.</p>
+               </div>
+               <div n="11" type="section">
+                  <head>XI.</head>
+                  <p>The Subjects both of the one and the other Nation ſhall have a reci<g ref="char:EOLhyphen"/>procal Diſpatch of their Buſineſs at the Cuſtom-houſe or Offices as well in <hi>France</hi> as in the Countries of the States General equally and without any diſtinction, as ſoon as poſſibly can be, without retarding of or work<g ref="char:EOLhyphen"/>ing any impediment to them whatſoever.</p>
+               </div>
+               <div n="12" type="section">
+                  <head>XII.</head>
+                  <p>There ſhall be a new Tariff eſtabliſhed that is common to both, and purſuant to both their conveniences, in the ſpace of three Months, and in the mean time the Tariff of 1667. ſhall be executed by way of pro<g ref="char:EOLhyphen"/>viſion; and, in caſe they do not agree upon a new Tariff within the ſaid ſpace of time, the Tariff of 1664. ſhall take place for the future.</p>
+               </div>
+               <div n="13" type="section">
+                  <head>XIII.</head>
+                  <p>The Men of War both of the one and the other Nation ſhall always find the Roads, Rivers, Ports and Havens free and open to come in, go out and ride at anchor, ſo long as they ſhall have occaſion, without be<g ref="char:EOLhyphen"/>ing obliged to be viſited; but yet this Freedom is to be uſed with Diſcre<g ref="char:EOLhyphen"/>tion, that they may adminiſter no Matter of Jealouſie, by too long and affected an aboad, or otherwiſe to the Governors, of the ſaid Places and Ports, to whom the Captains of the ſaid Ships are to give the Reaſon of their Arrival and Stay.</p>
+               </div>
+               <div n="14" type="section">
+                  <head>XIV.</head>
+                  <p>His Majeſty's and the ſaid Lords States Generals Men of War, and thoſe of their Subjects that may be fitted out for War, may with all man<g ref="char:EOLhyphen"/>ner of freedom carry off the Prizes, which they may have taken from their Enemies, whitherſoever they pleaſe, without their being obliged to pay
+<pb n="6" facs="tcp:154053:6"/>any Cuſtoms, whether to the Admirals or Admiralty, or any other: And alſo the ſaid Ships or ſaid Prizes, when they enter into any Havens or Ports belonging to his Majeſty or the States General cannot be ſtopped or ſeized, neither muſt any of the Officers in the ſaid Places pretend to take an Eſtimate of the Value of the ſaid Prizes, which may go out and be conducted freely and with all manner of liberty to the Places implied in the Commiſſions, which the Captains of the ſaid Men of War are obliged to ſhew: And, on the contrary, There ſhall no Refuge nor Re<g ref="char:EOLhyphen"/>treat be allowed in their Ports or Havens, to thoſe Ships that have made Prizes of ſuch as have belonged to his Majeſty or the ſaid Lords the States Generals Subjects; but in caſe they put in through Streſs of Wea<g ref="char:EOLhyphen"/>ther or Danger at Sea, they muſt be obliged to go out as ſoon as poſſible can be.</p>
+               </div>
+               <div n="15" type="section">
+                  <head>XV.</head>
+                  <p>The Subjects of the ſaid Lords the States General are not to be repu<g ref="char:EOLhyphen"/>ted <hi>Aubains</hi> in <hi>France,</hi> and are exempted from the Law of <hi>Aubain,</hi> and may diſpoſe of their Eſtates by Will, Gift or otherwiſe; and their Heirs, continuing to be Subjects to the States General, as well in <hi>France,</hi> as elſe where, may receive their Succeſſion, even <hi>ab inteſtato,</hi> altho' they have obtained no Letters of Naturalization; and yet the effect of this Conceſſi<g ref="char:EOLhyphen"/>on is not to be hindred or conteſted, under pretence of any Right or Pre<g ref="char:EOLhyphen"/>rogative of the Provinces, Cities or private Perſons, but they may in like manner, without the ſaid Letters of Naturalization, eſtabliſh themſelves with all freedom in any of the Cities of the Kingdom, there to carry on their Commerce and Traffick, yet without acquiring any right of being Citizens there, without they have obtained Letters of Naturalization from his Majeſty in due Form; and all thoſe of the United Provinces ſhall be ge<g ref="char:EOLhyphen"/>nerally in every thing and throughout as favourably treated, as his Majeſty's own natural Subjects; and particularly ſhall not be included in the Taxes which may be laid upon Strangers: And all that is contained in the pre<g ref="char:EOLhyphen"/>ſent Article, ſhall be obſerved in reference to the King's Subjects living in thoſe Countries that are under the Obedience of the ſaid States General.</p>
+               </div>
+               <div n="16" type="section">
+                  <head>XVI.</head>
+                  <p>Thoſe Ships that are laden by one of the Allies, and paſſing near unto the others Coaſt, or are forced into the Roads or Ports by contrary Winds, Storms or otherwife, ſhall not be forced to unlade or ſell their Merchan<g ref="char:EOLhyphen"/>dizes there, or part of the ſame, nor be obliged to pay any Cuſtoms, without they unlade their Merchandizes in that Place voluntarily and of their own free-will.</p>
+               </div>
+               <div n="17" type="section">
+                  <head>XVII.</head>
+                  <p>The Maſters of Ships, their Pilots, Officers and Soldiers Seamen and other ſeafaring Men, the Ships themſelves, with the Wares and Mer<g ref="char:EOLhyphen"/>chandizes wherewith they are laden, are not to be ſeized nor ſtopped,
+<pb n="7" facs="tcp:154053:6"/>by vertue of any general or private Order whatſoever, or for any Matter or Cauſe that can be aſſigned, no nor under the pretence of the Preſerva<g ref="char:EOLhyphen"/>tion and Defence of the State; and generally nothing can be taken from the Subjects of either Party, but by the Conſent of thoſe to whom it be<g ref="char:EOLhyphen"/>longs, and by paying the things which ſhall be deſired of them, wherein however its not meant, that this ſhould take in thoſe Seizures and Ar<g ref="char:EOLhyphen"/>reſts that are made by Order and Authority of Juſtice, and the ordinary Courſes; and for juſt Debts, Contracts, and other lawful Cauſes, upon the Account of which, proceſs ſhall be made by way of Right according to the form of Law.</p>
+               </div>
+               <div n="18" type="section">
+                  <head>XVIII.</head>
+                  <p>All the Subjects and Inhabitants of <hi>France,</hi> and the United Provinces, may, with all freedom and ſafety, ſail with their Ships, and traffick with their Merchandizes, without any diſtinction who may be the Owners thereof, from their own Ports, Kingdoms and Provinces, as alſo from the Ports and Kingdoms of other States or Princes, towards ſuch Places as belong to thoſe who are already declared Enemies, as well of <hi>France,</hi> as the United Provinces, or of one of the two, or which may become to be ſo. As alſo the ſame Subjects and Inhabitants, may, with the ſame free<g ref="char:EOLhyphen"/>dom and ſecurity, ſail with their Ships, and traffick with their Merchan<g ref="char:EOLhyphen"/>dizes, without making any diſtinction who may be the Proprietors of the ſame, from the Places, Ports and Roads of thoſe who are Enemies to the one and the other of the ſaid Parties, or to one of the two in particular, without contradiction or diſturbance whatſoever, not only directly from the ſaid Places of the Enemy unto a neutral Port, but alſo from one Ene<g ref="char:EOLhyphen"/>mies Place unto another, whether the ſame be found ſcituated under the Juriſdiction of the ſame Sovereign, or belong unto ſeveral.</p>
+               </div>
+               <div n="19" type="section">
+                  <head>XIX.</head>
+                  <p>This Traffick and Tranſporting of Merchandize extends unto all ſorts but ſuch as are contraband Goods.</p>
+               </div>
+               <div n="20" type="section">
+                  <head>XX.</head>
+                  <p>Among that ſort of Merchandizes, which are eſteemed Contraband, are only to be comprized all ſorts of fire Arms, and things of that kind, ſuch as Cannons, Muskets, Morters, Petards, Bombs, Granadoes, Sawſages, Carriages, Forks, Bandeliers, Powder, Match, Saltpeter, Balls, Pikes, Swords, Head-pieces, Curaſſes, Halberts, Javellins, Horſes, Saddles, Ca<g ref="char:EOLhyphen"/>ſes of Piſtols, Belts, and other Utenſils of War.</p>
+               </div>
+               <div n="21" type="section">
+                  <head>XXI.</head>
+                  <p>Under this ſort of contraband Goods, they are not to include Wheat, Corn, and other Grain, Oyls, Wines and Salt, nor generally any thing that appertains to the ſuſtenance and ſupport of Life, but they ſhall re<g ref="char:EOLhyphen"/>main free, as all other Merchandizes and Wares that are not comprehend<g ref="char:EOLhyphen"/>ed
+<pb n="8" facs="tcp:154053:7"/>in the foregoing Article, and the Tranſporting thereof is allowable e<g ref="char:EOLhyphen"/>ven to thoſe Places that are Enemies to the ſaid Lords the States, excep<g ref="char:EOLhyphen"/>ting to ſuch Cities and Places as are beſeiged, blocked up or inveſted.</p>
+               </div>
+               <div n="22" type="section">
+                  <head>XXII.</head>
+                  <p>In order to the executing of what is aforeſaid, it hath been agreed to be done in the following manner, that when thoſe Ships and Barks be<g ref="char:EOLhyphen"/>longing to his Majeſty's Subjects, come laden into any of the Havens be<g ref="char:EOLhyphen"/>longing to the ſaid Lords the States, and are minded to go from thence to thoſe of their Enemies, they ſhall be obliged only to ſhew to the Officers, belonging to the Ports of the ſaid Lords the States, from whence they depart, their Paſt-ports, containing a particular Account of their Ships Lading, atteſted and ſigned with the uſual Hand and Seal, and viewed by the Officers of the Admiralty of thoſe Places from whence they firſt parted, with a declaring of the Place whither they are bound, all being done according to the ordinary and uſual Form, upon which exhibition of their Paſt-ports, in the Form aforeſaid, they are not to be diſquieted nor farther called to an account, detained nor retarded in their Voyages, un<g ref="char:EOLhyphen"/>der any Pretence whatſoever.</p>
+               </div>
+               <div n="23" type="section">
+                  <head>XXIII.</head>
+                  <p>The ſame thing is to be done in reſpect to the <hi>French</hi> Ships and Barks, that put into ſome Roads belonging to the Territories under the Obedi<g ref="char:EOLhyphen"/>ence of the ſaid Lords the States, without entring into the Ports, or if they go in, yet have no mind to unlade and break their Cargoes, of which they are not obliged to give an Account, unleſs it be that there is a ſuſpi<g ref="char:EOLhyphen"/>tion, leſt they ſhould carry Contraband-goods to the Enemies of the ſaid Lords the States, as has been ſaid before.</p>
+               </div>
+               <div n="24" type="section">
+                  <head>XXIV.</head>
+                  <p>And upon an apparent cauſe of Suſpition in this Matter, the ſaid Sub<g ref="char:EOLhyphen"/>jects are obliged to ſhew in the Ports their Paſt-ports drawn, according to the Form before ſpecified.</p>
+               </div>
+               <div n="25" type="section">
+                  <head>XXV.</head>
+                  <p>But if they ſhould enter within the Roads, or meet with ſome Ships of the Lords the States out at Sea, or ſome private Veſſels, the ſaid Ships of the United Provinces, for the avoiding of all Diſorder, are to come no nearer unto the <hi>French</hi> than a Cannon-ſhot, but may ſend their ſmall Bark or Shalloop on board the <hi>French</hi> Ships or Barks, whereof three or four Men only are to enter into the ſame, unto whom the Maſters of the <hi>French</hi> Ships ſhall ſhew their Paſs-ports and Letters of Mart abovementi<g ref="char:EOLhyphen"/>oned, according to the Form of the ſaid Letters of Mart, which ſhall be incerted at the end of this Treaty; by which Paſs-ports and Letters of Mart, it may not only appear what his Cargo is, but alſo the Place of the Aboad and Reſidence, as well of the Maſter as of the Ship herſelf;
+<pb n="9" facs="tcp:154053:7"/>that ſo it may be known by theſe two ways, whether they carry contra<g ref="char:EOLhyphen"/>band Goods, and that as well the Quality of the Ship, as of the Maſter, may ſufficiently appear thereby, to which Paſt-ports and Letters of Mart an entire Belief and Credit ought to be given; and to the end the Validi<g ref="char:EOLhyphen"/>ty thereof may be the better known, and that they can be by no means falſified and counterfeited, his ſaid Majeſty and the ſaid Lords the States General ſhall preſcribe certain Marks and Counter-ſignings thereunto.</p>
+               </div>
+               <div n="26" type="section">
+                  <head>XXVI.</head>
+                  <p>And in caſe, by the aforeſaid Means, there be found in the ſaid Veſſels and <hi>French</hi> Barks, bound to the Harbours of the Enemies of the ſaid Lords the States, any Merchandizes or Commodities, which are above decla<g ref="char:EOLhyphen"/>red to be contraband and prohibited, they ſhall be unladen, and declared confiſcated in the preſence of the Judges of the Admiralty of the United Provinces, or other competent Perſons; but yet for all that, the Ship and Bark, or other Goods, Merchandizes and Commodities that are free and not prohibited, found in the ſame Ship, ſhall by no means be ſeized and confiſcated.</p>
+               </div>
+               <div n="27" type="section">
+                  <head>XXVII.</head>
+                  <p>It has been moreover agreed and concluded, that all the Lading which ſhall be found of his Majeſty's Subjects on board a Ship that is an Enemy of the ſaid Lords the States, though the ſame be no contraband Goods, ſhall be confiſcated, with all that ſhall be found in the ſaid Ship, without any Exception or Reſerve, but yet alſo, all that which ſhall be and be found in ſuch as belong to the moſt Chriſtian King's Subjects, ſhall be free and paſs, though the Cargo or part thereof appertain to the Ene<g ref="char:EOLhyphen"/>mies of the ſaid Lords the States, excepting contraband Goods, in re<g ref="char:EOLhyphen"/>ſpect unto which they are to regulate themſelves, according to what has been ordered in the preceding Articles; and for the more particular il<g ref="char:EOLhyphen"/>luſtration and clearing of this Article, it's moreover agreed and concluded on, that in caſe it ſhould happen, that both the Parties, or elſe one of them, ſhould be engaged in a War, the Goods appertaining to the Sub<g ref="char:EOLhyphen"/>jects of the other Party, and laden in their Ships who are become Ene<g ref="char:EOLhyphen"/>mies to both, or one of the Parties, cannot be any ways confiſcated, upon the account or under pretence of the ſaid imbarking of them in an Enemy's Ship: And that ſhall be obſerved not only when the ſaid Com<g ref="char:EOLhyphen"/>modities ſhall be put on board them before the Declaration of the War, but alſo when the ſame ſhall be done after the ſaid Declaration; provi<g ref="char:EOLhyphen"/>ded it be done within the reſpective Times and Terms hereafter preſcri<g ref="char:EOLhyphen"/>bed, <hi>viz.</hi> If they have been laden in the <hi>Baltick</hi> Sea, or that of the North, from <hi>Terneuſe</hi> in <hi>Norway,</hi> to the end of the Channel, in the ſpace of four Weeks; or from the end of the Channel, to the Cape of St. <hi>Vin<g ref="char:EOLhyphen"/>cent,</hi> in the ſpace of ſix Weeks; and from thence into the <hi>Mediterranean</hi> Sea, and as far as the Line, in the ſpace of ten Weeks; and beyond the Line, and the other Parts of the World, in the ſpace of eight Months,
+<pb n="10" facs="tcp:154053:8"/>to commence from the Publication of the preſent Treaty: And this in ſuch a manner that the Merchandizes and Goods of the Subjects and Inhabi<g ref="char:EOLhyphen"/>tants that are laden on board thoſe Enemies Ships, can by no means be confiſcated, during the above-named Terms and aſcertained Limits; but ſhall be reſtored to the Owners without any delay, if it be not ſo that they have been laden after the expiration of the ſaid Terms: And never<g ref="char:EOLhyphen"/>theleſs it ſhall be by no means lawful to carry to the Enemy's Ports ſuch Merchandizes as are contraband, which may be found on board of ſuch an Enemy's Ship, tho' the ſame be ſet free for the above-mentioned Reaſon. And as it has been regulated above, That a free Ship ſhall go unmoleſted with the Goods laden thereon, it has been moreover agreed and concluded on, That this Liberty ſhall alſo be extended to the Perſons that ſhall be found on board a free Ship, ſo far, that tho' they be Enemies both of the one and the other Party, or of one only of them, yet being found in a free Ship, they muſt not be taken out, if ſo be they are not Soldiers, and actu<g ref="char:EOLhyphen"/>ally in the ſaid Enemy's Service.</p>
+               </div>
+               <div n="28" type="section">
+                  <head>XXVIII.</head>
+                  <p>All the Subjects and Inhabitants of the ſaid United Provinces ſhall reci<g ref="char:EOLhyphen"/>procally enjoy the ſame Rights, Liberties and Immunities in their Com<g ref="char:EOLhyphen"/>merce and Trade in his ſaid Majeſty's Ports, Roads, Seas and Dominions, as has been ſaid, as his Majeſty's Subjects ſhall enjoy in thoſe of the Lords the States, and on the High-Seas; it being to be underſtood, that the Equality ſhall be reciprocal every ways on either ſide; and alſo, that in caſe hereafter the ſaid Lords the States ſhall be at Peace, Amity and Neu<g ref="char:EOLhyphen"/>trality with any Kings, Princes and States that ſhall become Enemies to his ſaid Majeſty, each of the two Parties ſhall reciprocally enjoy the ſame Conditions and Reſtrictions as are expreſs'd in the Articles of the preſent Treaty, relating to Trade and Commerce.</p>
+               </div>
+               <div n="29" type="section">
+                  <head>XXIX.</head>
+                  <p>And the more to confirm the Subjects of the ſaid Lords the States, that there ſhall be no Violence offered them by the ſaid Men of War, all the Captains of the King's Ships, and others of his Majeſty's Subjects, ſhall be injoyned not to moleſt nor damnifie them any manner of way, under the Penalty of making their own Perſons and Goods liable to repair the Dama<g ref="char:EOLhyphen"/>ges ſuffered and to be ſuffered, till full reſtitution be made thereof.</p>
+               </div>
+               <div n="30" type="section">
+                  <head>XXX.</head>
+                  <p>And for this reaſon, every Captain and other Commander, ſhall for the future, before their departure, be obliged to give good and ſufficient Secu<g ref="char:EOLhyphen"/>rity before proper Judges for the Sum of fifteen Thouſand Livres <hi>French,</hi> to anſwer each of them for the Miſdemeanours they may commit in their Voyages, and for the Contraventions of their Captains and Officers againſt the preſent Treaty, and againſt his Majeſty's Orders and Edicts which ſhall be publiſhed by vertue and in conformity to the preſent Agreement, upon the forfeiting and vacating of the ſaid Commiſſions and Grants; which ſhall alſo be practiced in like manner by the Subjects of the ſaid Lords the States General.</p>
+               </div>
+               <div n="31" type="section">
+                  <pb n="11" facs="tcp:154053:8"/>
+                  <head>XXXI.</head>
+                  <p>If it ſo happen that any of the ſaid <hi>French</hi> Captains take a Veſſel laden with the ſaid contraband Goods, as has been ſaid already, the ſaid Cap<g ref="char:EOLhyphen"/>tains are not to open nor break up the Cheſts, Males, Bales, Packs, Tuns and other Casks, or tranſport, ſell or exchange them, or otherwiſe alie<g ref="char:EOLhyphen"/>nate the ſame till they have been brought aſhoar in the preſence of the Judges of the Admiralty; and, after an Inventory taken of the ſaid Mer<g ref="char:EOLhyphen"/>chandizes found in the ſaid Veſſels, if ſo be the ſaid contraband Goods, ma<g ref="char:EOLhyphen"/>king up but a part of the Lading, the Maſter of the Ship thinks well and conſents to deliver up the ſaid contraband Goods to the ſaid Cap<g ref="char:EOLhyphen"/>tain, and purſue his Voyage; in ſuch a Caſe, the ſaid Maſter ſhall by no means be hindred to purſue his Courſe and the Deſign of his Voy<g ref="char:EOLhyphen"/>age.</p>
+               </div>
+               <div n="32" type="section">
+                  <head>XXXII.</head>
+                  <p>His Majeſty, being willing that the Subjects of the ſaid Lords the States General ſhould be treated in all the Countries under his Obedience, as favourably as his own Subjects, ſhall give all neceſſary Orders, that the Judgments and Arreſts, that ſhall be made concerning the Prizes that may be taken at Sea, ſhall be done with all the Juſtice and Equity imaginable, by Perſons of unſuſpected Credit, and ſuch as are not intereſted in the Matter in queſtion. And his Majeſty ſhall give poſitive and effectual Or<g ref="char:EOLhyphen"/>ders, That all the Arreſts, Judgments, and Decrees of Juſtice already gi<g ref="char:EOLhyphen"/>ven, and hereafter to be given, be readily and duly executed, according to their proper Forms.</p>
+               </div>
+               <div n="33" type="section">
+                  <head>XXXIII.</head>
+                  <p>And when the Embaſſadors of the ſaid Lords the States General, or ſome other of their publick Miniſters, who ſhall be at his Majeſty's Court, ſhall make Complaint of the ſaid Judgments, that are given, his Majeſty will make a Review of the ſaid Judgments in his Council, to examine whether the Orders or Precautions, contained in this Treaty, have been followed and obſerved, and to provide for the ſame, according to Rea<g ref="char:EOLhyphen"/>ſon, which muſt be done in the ſpace of three Months at fartheſt; and yet neither before the firſt Judgment, nor after the ſame, during the Re<g ref="char:EOLhyphen"/>view, ſhall the Goods and Effects, that are reclaimed, be ſold or unladen, unleſs it be with the Conſent of the Parties concerned, to prevent the loſs of the ſaid Merchandizes.</p>
+               </div>
+               <div n="34" type="section">
+                  <head>XXXIV.</head>
+                  <p>When a Proceſs ſhall be moved in the firſt and ſecond Action, againſt thoſe who have made Prizes at Sea, and ſuch as are Intereſted in the ſame, and that the ſaid intereſted Perſons happen to obtain a favourable Judg<g ref="char:EOLhyphen"/>ment or Arreſt, the ſaid Judgment or Arreſt ſhall be executed without any caution, notwithſtanding any Appeal of the Perſon who ſhall make the Prizes, but not on the contrary, and what is ſaid in the preſent and pre<g ref="char:EOLhyphen"/>cedent Articles, for the adminiſtring of good and undilatory Juſtice to the Subjects of the United Provinces, concerning Prizes made at Sea, by his Majeſty's Subjects, ſhall be extended and put in practiſe by the Lords the
+<pb n="12" facs="tcp:154053:9"/>States General, in reſpect to Prizes taken by their Subjects, from thoſe of his Majeſty's.</p>
+               </div>
+               <div n="35" type="section">
+                  <head>XXXV.</head>
+                  <p>His Majeſty, and the Lords the States General, may at all times Build or Fraught in each others Countries, ſuch a number of Ships, whether for War or Trade, as they think good, as alſo buy ſuch a quantity of Am<g ref="char:EOLhyphen"/>munition, as they have occaſion for, and imploy their Authority, that the ſaid Bargains for Ships, and buying of Ammunition, be done honeſtly and at reaſonable Rates; but yet ſo that neither his Majeſty, nor the Lords the States General, ſhall give the ſame leave to the ſaid Enemies of the one and the other, in caſe the ſaid Enemies be the Attackers and Aggreſſors.</p>
+               </div>
+               <div n="36" type="section">
+                  <head>XXXVI.</head>
+                  <p>If it ſo happen, that any Men of War or Merchant-men be run A<g ref="char:EOLhyphen"/>ground or Shipwreck'd, by Storm or other Accident, upon the Coaſt of one or other Ally, the ſaid Ships, Apparel, Goods and Merchandizes, and what ſhall be ſaved thereof, or if out of foreſight, the ſaid things being pe<g ref="char:EOLhyphen"/>riſhable, have been ſold, and that the whole be reclaimed by the Owners or others, who had the Charge thereof, within a Year and a Day, ſhall be re<g ref="char:EOLhyphen"/>ſtored without the form of a Proceſs, they being obliged only to pay a rea<g ref="char:EOLhyphen"/>ſonable Charge, and ſuch as ſhall be regulated between the ſaid Allies, for the Right of Saving; and in caſe of any Contravenſion to the preſent Ar<g ref="char:EOLhyphen"/>ticle, his Majeſty and the ſaid Lords the States General promiſe effectually to imploy their Authority, to puniſh thoſe of their Subjects with all poſſible Severity, who ſhall be found guilty of theſe Inhumanities, which to their great regret have been ſometimes committed upon the like Occaſions.</p>
+               </div>
+               <div n="37" type="section">
+                  <head>XXXVII.</head>
+                  <p>His Majeſty and the ſaid Lords the States General ſhall not receive, nor ſuffer their Subjects to receive, in any of the Countries under their Obedience, any Pirates and Free-booters whatſoever, but they ſhall pur<g ref="char:EOLhyphen"/>ſue, puniſh and chaſe them out of their Ports; and the Ships they had made Prey of, as well as the Goods taken by the ſaid Pirates and Rovers, that ſhall be found in being, ſhall forthwith, and without Form of Law, be freely reſtored to the Owners that do reclaim them.</p>
+               </div>
+               <div n="38" type="section">
+                  <head>XXXVIII.</head>
+                  <p>The Inhabitants and Subjects both of the one and the other Party, may every-where in the Territories under the Obedience of the ſaid King and ſaid Lords the States General, make uſe of ſuch Advocates, Attornies, Notaries and Sollicitors, as they think good, to whom alſo they ſhall be appointed by the ordinary Judges, when there is occaſion, and that the ſaid Judges are required to do it, and the ſaid Subjects and Inhabitants on ei<g ref="char:EOLhyphen"/>ther ſide ſhall be free in ſuch Places where they make their Aboad, to keep their Books of Trade and Correſpondence, in ſuch Language as they pleaſe, without their being upon that Account diſquieted or moleſted.</p>
+               </div>
+               <div n="39" type="section">
+                  <head>XXXIX.</head>
+                  <p>No Conſuls for the future ſhall be allowed to be on either ſide, and if it be thought convenient to ſend Preſidents, Agents, Commiſſioners or o<g ref="char:EOLhyphen"/>thers
+<pb n="13" facs="tcp:154053:9"/>to either's Country, they ſhall not fix their Aboad in any place, but where the Court does ordinarily reſide.</p>
+               </div>
+               <div n="40" type="section">
+                  <head>XL.</head>
+                  <p>His Majeſty and the ſaid Lords the States General, do not allow of any Man of War or other Veſſel fitted out by the Commiſſion and for the Service of any Prince, Republick or City whatſoever, ſhall come and make Prize in the Ports, Havens or other Rivers, which belong unto them, of any Ship belonging to the one or the other Party; and in caſe any ſuch thing ſhould happen, his ſaid Majeſty and the ſaid Lords the States General will imploy their Authority and Power, to cauſe reſtitution or reaſonable reparation to be made for the ſame.</p>
+               </div>
+               <div n="41" type="section">
+                  <head>XLI.</head>
+                  <p>If, through Inadvertency or otherwiſe, any Non-obſervances or Con<g ref="char:EOLhyphen"/>traventions ſhould happen in the preſent Treaty, on the part of his ſaid Majeſty or of the ſaid Lords the States General and their Succeſſors, the ſame ſhall not ceaſe to continue in full force, without their coming upon that account to a breaking of the Confederacy, Friendſhip and good Cor<g ref="char:EOLhyphen"/>reſpondence; but the ſaid Contraventions ſhall be forthwith rectified, and if the ſame do proceed from the fault of ſome particular Subjects, they alone ſhall be puniſhed and chaſtiſed.</p>
+               </div>
+               <div n="42" type="section">
+                  <head>XLII.</head>
+                  <p>And that Commerce and Amity between the Subjects of the ſaid King and thoſe of the ſaid Lords the States General of the United Provinces of the Low Countries may be the better eſtabliſhed for the future, It has been agreed and concluded on, that if any interruption of Friendſhip or Rupture between the Crown of <hi>France</hi> and the ſaid Lords the States Ge<g ref="char:EOLhyphen"/>neral of the ſaid United Provinces ſhould hereafter happen, (which God forbid) there ſhall be always nine Months allowed, to commence from the time of the ſaid Rupture, for the Subjects on either part, to withdraw their Effects, and tranſport them whither they pleaſe; which ſhall be lawful for them to do, as well as to ſell or tranſport their Goods and Movables with all freedom, without giving them any let or moleſtation, or pro<g ref="char:EOLhyphen"/>ceeding, during the ſaid Term of nine Months, to any ſeizure of their Effects, much leſs to arreſt their Perſons.</p>
+               </div>
+               <div n="43" type="section">
+                  <head>XLIII.</head>
+                  <p>Both the one and the other Party ſhall prevent, as much as in them lies, whatever may any manner of way either directly or indirectly hinder the execution of the preſent Treaty, and eſpecially the ſeventh Article; and they do oblige themſelves, upon the leaſt Complaints of any Contraven<g ref="char:EOLhyphen"/>tions, that ſhall be made, to make reparation without any delay.</p>
+               </div>
+               <div n="44" type="section">
+                  <head>XLIV.</head>
+                  <p>The preſent Treaty, concerning Commerce, Navigation and Maritime Affairs, ſhall endure for five and twenty Years, to commence from the Day of the ſigning thereof, and the Ratifications of it ſhall be made in due form, and exchanged on either part in the ſpace of three Weeks, reckon<g ref="char:EOLhyphen"/>ing from the Day of ſigning, or ſooner, if it can be done.</p>
+               </div>
+               <div n="45" type="section">
+                  <pb n="14" facs="tcp:154053:10"/>
+                  <head>XLV.</head>
+                  <p>And for the greater Confirmation of this Treaty of Commerce, and of all the Points and Articles contained therein, the ſaid preſent Treaty ſhall be publiſhed, verified and regiſtred in the Court of Parliament of <hi>Paris</hi> and in all other Parliaments throughout the Kingdom of <hi>France,</hi> and the Chamber of Accounts of the ſaid City of <hi>Paris;</hi> and alſo the ſaid Treaty ſhall in like manner be publiſhed, verified and regiſtred by the ſaid Lords the States General, in the Courts and other Places where they have been wont to make the like Publications, Verifications and Regiſtrings.</p>
+               </div>
+            </div>
+            <div type="part">
+               <head>The Form of the Past-ports and Letters that ought to be given by the Admiralty of <hi>France,</hi> to the Ships and Barks, that go out, pur<g ref="char:EOLhyphen"/>ſuant to the Articles of the preſent Treaty.</head>
+               <p>
+                  <hi>LO<g ref="char:V">Ʋ</g>IS,</hi> Count of <hi>Thoulouſe,</hi> Admiral of <hi>France,</hi> to all thoſe to whom theſe preſent Letters ſhall come, Greeting: Be it known, that we have given Leave and Permiſſion to <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> the Maſter and Conductor of the Ship, called, <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> of the City of <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> of the Port <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Tuns, or thereabouts, being at preſent in the Port and Haven of <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> to go to <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> laden with <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> after his Ship has been viſited, and he before his departure taken the Oath, in the preſence of ſuch Officers as exerciſe Juriſdiction over Maritime Affairs, that the ſaid Ship appertains to one or more of his Majeſty's Subjects, the manner whereof ſhall be ſubjoyned next after theſe Preſents; and that he will keep and cauſe to be kept, by thoſe that make up his Equipage, the Maritime Orders and Regulations, and commit the Roll, ſigned and verified, to be regiſtred, which contains the Names and Sirnames, Birth and Aboad of the Men that compoſe his Crew, and of all ſuch as go on board him, whom he cannot imbark without the knowledge and permiſſion of the Of<g ref="char:EOLhyphen"/>ficers that are appointed to manage the Maratime Affairs; and to whatever Port or Haven he ſhall enter with his Ship, he ſhall ſhew to ſuch Officers and Judges as have the Inſpection of Maritime Affairs the preſent Leave, and give a faithful Account unto them of what hath hapned during his Voyage; and he ſhall carry the King's Flags, Arms and Enſigns, as alſo ours during his Voyage. In witneſs whereof we have ſet our Hand and Seal unto theſe Preſents, and have cauſed the ſame to be Counter-ſigned by our Ma<g ref="char:EOLhyphen"/>rine Secretary, at <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Day of <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> thouſand ſix hundred</p>
+               <closer>
+                  <signed>Signed <hi>Louis,</hi> Count of <hi>Thoulouſe,</hi> and a little lower by</signed>
+               </closer>
+            </div>
+            <div type="part">
+               <head>A Form of the Act that contains the Oath.</head>
+               <p>WE <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> of the Admiralty of <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> do certifie, That <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> the Maſter of the Ship, named <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> with the above-mentioned Paſt-port hath taken the Oath mentioned therein. Given at <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> the <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Day of <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </p>
+            </div>
+            <div type="part">
+               <pb n="15" facs="tcp:154053:10"/>
+               <head>Another form of Letters that ſhould be given by the Cities and Sea<g ref="char:EOLhyphen"/>ports of the <g ref="char:V">Ʋ</g>nited Provinces, to the Ships and Barks that go out from thence, according the fore-ſaid Article.</head>
+               <p>TO the moſt Serene, moſt Illuſtrious, moſt Puiſſant, Honourable and Prudent Lords Emperors, Kings, Republicks, Princes, Dukes, Counts, Barons, Lords, Burgomaſters, Sherriffs, Councellors, Judges, Officers, Ju<g ref="char:EOLhyphen"/>ſtices and Governours of all good Cities and Places, as well eccleſiaſti<g ref="char:EOLhyphen"/>cal as ſecular, who ſhall ſee or read theſe Preſents: We the Burgoma<g ref="char:EOLhyphen"/>ſters and Rulers of the City of <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> make known, that <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> the Maſter of the Ship <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> appearing be<g ref="char:EOLhyphen"/>fore us, hath declared upon ſolemn Oath, that the Ship named <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> of about <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> laſts, over which he is at pre<g ref="char:EOLhyphen"/>ſent Maſter, appertains to the Inhabitants of the United Provinces, ſo help him God: And, as we are deſirous that the ſaid Maſter of the Ship ſhould be aſſiſted in his lawful Affairs, we do intreat all Perſons in gene<g ref="char:EOLhyphen"/>ral and particular, where the ſaid Maſter with his Ship and Goods ſhall arrive, that they would be pleaſed to receive him kindly, and treat him be<g ref="char:EOLhyphen"/>comingly, by ſuffering him according to the uſual Rights of Toles and Cuſtoms to be in, by and near your Ports, Rivers and Dominions, by leaving him to ſail, paſs, frequent and trade, where he thinks fit; which we will readily acknowledge. In Witneſs whereof, we have affixed our City-Seal hereunto.</p>
+               <p>In Witneſs whereof, we his Majeſty's above-mentioned Embaſſadors, and thoſe of the Lords the States General, by vertue of our reſpective Powers, have in the ſaid Names ſigned and ſealed theſe Preſents with our own Hands and Seals, at <hi>Reſwick,</hi> the 20th of <hi>September,</hi> 1687.</p>
+               <closer>
+                  <signed>Thus ſigned:
+<list>
+                        <item>(L. S.) <hi>N. A. de Harlay Bonneuil,</hi>
+                        </item>
+                        <item>(L. S.) <hi>Verjus de Crecy,</hi>
+                        </item>
+                        <item>(L. S.) <hi>De Callieres,</hi>
+                        </item>
+                        <item>(L. S.) <hi>A. Heynſius,</hi>
+                        </item>
+                        <item>(L. S.) <hi>E. de Weede,</hi>
+                        </item>
+                        <item>(L. S.) <hi>W. v. Haren.</hi>
+                        </item>
+                     </list>
+                  </signed>
+               </closer>
+            </div>
+            <div type="article">
+               <head>The ſeparate Article.</head>
+               <p>BEſides what has been agreed and concluded on by the Treaty of Com<g ref="char:EOLhyphen"/>merce, made between his moſt Chriſtian Majeſty's Embaſſadors, and thoſe of the Lords the States General of the United Provinces, this twen<g ref="char:EOLhyphen"/>tieth Day of <hi>September,</hi> 1697; It has been farther agreed by this pre<g ref="char:EOLhyphen"/>ſent ſeparate Article, which ſhall be of the ſame Vertue and Force as if it had been incerted word forword in the ſaid Treaty, That the Impoſi<g ref="char:EOLhyphen"/>tion of fifty Sols <hi>per</hi> Tun, ſetled in <hi>France</hi> upon Forreign Ships, ſhall for the future entirely ceaſe in reſpect to thoſe Ships that appertain to the Subjects of the States General of the United Provinces, and may not here<g ref="char:EOLhyphen"/>after be re-eſtabliſhed, and this in ſuch a manner, that the Ships of the
+<pb n="16" facs="tcp:154053:11"/>ſaid Lords the States General, ſhall be diſcarged of the ſaid Tax, whe<g ref="char:EOLhyphen"/>ther the ſaid Ships go directly for <hi>France</hi> from the Countries or Territories of the ſaid Lords the States General, or from any other Place whatſoe<g ref="char:EOLhyphen"/>ver, whether the ſame be Laden or in Ballaſt, or whether alſo they be Laden for to unload in one or more Places in <hi>France;</hi> or elſe that being minded to take in Lading in ſuch Places whither they have an intention to go, and not finding any there, they go to other Places for their Supply; or whether alſo the ſaid Ships of the Subjects of the Lords the States Ge<g ref="char:EOLhyphen"/>neral, go out of the Ports of <hi>France</hi> in order to return Home, or go elſe<g ref="char:EOLhyphen"/>where, in what Places ſoever they may be, laden or empty: Whether, a<g ref="char:EOLhyphen"/>gain, they have taken in their Lading in one or more Places, ſince it has been agreed on, that neither in the ſaid Caſes, nor any other which may happen, ſhall the Ships, belonging to the Subjects of the ſaid Lords the States General, be ſubject to the ſaid Impoſition, but that they ſhall be and remain exempted there from, as well in coming from as going into the ſaid Ports of <hi>France,</hi> ſaving only in the following Caſe; to wit, When the ſaid Ships take in Merchandizes in <hi>France,</hi> and Tranſport the ſame from one Port of <hi>France</hi> to another in the ſaid Country, in order to diſpoſe of the ſame, in which caſe only, and upon no other Account, are the Subjects of the ſaid Lords the States General, obliged to pay the ſaid Cuſtom as other Strangers do. The preſent ſeparate Article ſhall be Rati<g ref="char:EOLhyphen"/>fied and Regiſtred in the ſame manner as the Treaty of Commerce.</p>
+               <p>In Witneſs whereof, We his ſaid Majeſty's Embaſſadors, and thoſe of the Lords the States General, by vertue of our reſpective Powers, have in the ſaid Names ſigned and ſealed this ſeparate Article with our own Hands and Seals; at <hi>Reſwick</hi> in <hi>Holland,</hi> 20th of <hi>September,</hi> 1697.</p>
+               <closer>
+                  <signed>Thus ſigned:
+<list>
+                        <item>(L. S.) <hi>N. A. de Harlay Bonneuil,</hi>
+                        </item>
+                        <item>(L. S.) <hi>Verjus de Crecy,</hi>
+                        </item>
+                        <item>(L. S.) <hi>De Callieres,</hi>
+                        </item>
+                        <item>(L. S.) <hi>A. Heynſius,</hi>
+                        </item>
+                        <item>(L. S.) <hi>E. de Weede,</hi>
+                        </item>
+                        <item>(L. S.) <hi>W. van Haren.</hi>
+                        </item>
+                     </list>
+                  </signed>
+               </closer>
+            </div>
+            <div type="part">
+               <head>Here follows the full Powers of the most Chriſtian King's Embaſſa<g ref="char:EOLhyphen"/>dors and Plenipotentiaries.</head>
+               <p>
+                  <hi>LEwis,</hi> by the Grace of God, King of <hi>France</hi> and <hi>Navarre,</hi> to all thoſe who may ſee theſe Preſents, Greeting: As we more ardently deſire nothing than to ſee the War wherewith Chriſtendom is at preſent afflicted, ended by a good Peace; and ſeeing that by the Aſſiduity and Mediation of our moſt dear and moſt beloved Brother, the King of <hi>Sweden,</hi> the Towns of <hi>Delph</hi> and the <hi>Hague</hi> have been agreed upon by all Parties to be the Places where the Conferences, neceſſary for that end, are to be held; we being moved by this ſame deſire, of ſtopping, as much as in us lies, with the aſſiſtance of Divine Providence, the Deſolation of ſo many Pro<g ref="char:EOLhyphen"/>vinces, and Effuſion of ſo much Chriſtian Blood, make known, That we putting an entire Confidence in the Experience, Capacity and Fidelity of our beloved and faithful Councellor in Ordinary in our Council of State,
+<pb n="17" facs="tcp:154053:11"/>the Sieur <hi>Harlay de Bonnevil,</hi> of our well-beloved the Sieur <hi>Verjus,</hi> Count of <hi>Crecy,</hi> Baron of <hi>Couvay,</hi> Sieur of <hi>Boulay,</hi> of the two Churches of <hi>For<g ref="char:EOLhyphen"/>tiſle,</hi> of <hi>Mevillet,</hi> and other Places, and of our well-beloved the Sieur <hi>de Callieres, de la Roche-Chellay, &amp; de Gigny,</hi> by the advantageous Proofs which they have given us in divers important Imployments where-with we have entruſted them, as well within as without our Kingdom; by theſe Cauſes and other Conſiderations moving us thereunto, we have en<g ref="char:EOLhyphen"/>truſted, ordered and deputed the ſaid Sieurs <hi>de Harlay, de Crecy,</hi> and <hi>de Callieres;</hi> and we do by theſe Preſents, ſigned with our own Hand, En<g ref="char:EOLhyphen"/>truſt, Order and Depute, and have and do give unto them full Power, Commiſſion and ſpecial Command, to go into the ſaid City of <hi>Delph,</hi> in Quality of our Extraordinary Embaſſadors and Plenipotentiaries for the Peace, and there to confer whether directly or by the interpoſition of the Embaſſadors Mediators, reſpectively received and agreed upon, with the Embaſſadors, Plenipotentiaries and Miniſters of our moſt dear and great Friends the States General of the United Provinces of the <hi>Low Countries,</hi> and of their Allies, who ſhall be all provided with ſufficient Powers, and there to treat upon the means how to terminate and appeaſe the Differences that at this Day occaſion the War; and our ſaid Plenipoten<g ref="char:EOLhyphen"/>tiaries may all three of them together, or two of them in caſe of the ab<g ref="char:EOLhyphen"/>ſence of the other through Sickneſs, or ſome other Impediment, or one a<g ref="char:EOLhyphen"/>lone, in the abſence of the other two, in the like caſe of Sickneſs, or other Impediment, agree, and thereupon conclude and ſign a good and firm Peace, and generally negotiate, promiſe and agree, to whatever they ſhall think neceſſary for the effecting of the ſaid Peace, with the ſame Autho<g ref="char:EOLhyphen"/>rity as we ourſelves could or might do it, were we there preſent in Per<g ref="char:EOLhyphen"/>ſon, tho' there were ſomewhat therein that ſhould require a more ſpecial Order than what is contained in theſe Preſents; promiſing, upon the Faith and Word of a King, to hold good, and to fulfil all that the ſaid Sieurs <hi>de Harlay, Crecy</hi> and <hi>Callieres,</hi> or any two of them, in caſe of the others abſence thro' Sickneſs, or other Impediment, or any one of them, in the abſence of the other two, in the like caſe of Sickneſs, or other Impe<g ref="char:EOLhyphen"/>diment, ſhall ſtipulate, promiſe or agree to, and to diſpatch our Letters of Ratification thereupon, within the time they ſhall be promiſed in our Name to be produced, for ſuch is our Pleaſure: In Witneſs whereof, we have fixed our Seal to theſe Preſents. Given at <hi>Verſailles</hi> the 25th of <hi>February,</hi> 1697, and of our Reign, 54. Signed <hi>Lovis.</hi> And upon the Fold was written, By the King's Command, ſigned <hi>Colbert.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>Here follows the Tenour of the full Powers of the Embaſſadors and Plenipotentiaries of the Lords the States General.</head>
+               <p>THe States General of the United Provinces of the <hi>Low Countries,</hi> to all thoſe to whom theſe Preſents ſhall come, Greeting: As we deſire no<g ref="char:EOLhyphen"/>thing more ardently than to ſee the War, where-with Chriſtendom is at preſent afflicted, ended by a good Peace, and that thro' the Care and Me<g ref="char:EOLhyphen"/>diation
+<pb n="18" facs="tcp:154053:12"/>of the moſt Serene King of <hi>Sweden, Rijſwick</hi> has been agreed upon by all Parties to be the place of holding the Conferences: We being mo<g ref="char:EOLhyphen"/>ved with the ſame deſire of preventing, as much as in us lies, the deſo<g ref="char:EOLhyphen"/>lation of ſo many Provinces, and the effuſion of ſo much Chriſtian Blood, are very deſirous to contribute whatever depends upon us towards it, and for this Purpoſe, have in the ſaid Aſſembly, deputed ſome Perſons of our own Body, who have given ſeveral Proofs of the Knowledge and Expe<g ref="char:EOLhyphen"/>rience they have in publick Affairs, as well as the Affection they retain for the good of our State: And as the Sieurs <hi>James Boreel,</hi> Lord of <hi>Duynbeek, Weſthoven</hi> and <hi>Mereſteyn,</hi> Senator and Burgomaſter of the City of <hi>Am<g ref="char:EOLhyphen"/>ſterdam,</hi> and the deputed Councellor of the Province of <hi>Holland; Ever<g ref="char:EOLhyphen"/>hard de Weede,</hi> Lord of <hi>Weede, Dijckvelt, Rateles, &amp;c.</hi> Lord Proprietor of <hi>Oudewater,</hi> Dean and Rector of the Imperial Chamber of St. <hi>Mary</hi> of <hi>
+                     <g ref="char:V">Ʋ</g>
+                     <g ref="char:EOLhyphen"/>trecht,</hi> Dijk-Grave of the River <hi>Rhine,</hi> within the Province of <hi>
+                     <g ref="char:V">Ʋ</g>trecht,</hi> Preſident of the States of the ſaid Province, and <hi>William de Haren,</hi> Griet<g ref="char:EOLhyphen"/>man of <hi>Bilt,</hi> Deputy for the Nobility to the States of <hi>Frieſland,</hi> and Cu<g ref="char:EOLhyphen"/>rator of the Univerſity of <hi>Francker,</hi> who are Deputies in our Aſſembly on the part of the States of <hi>Holland, <g ref="char:V">Ʋ</g>trecht</hi> and <hi>Frieſland,</hi> have ſignali<g ref="char:EOLhyphen"/>zed themſelves in ſeveral important Imployments for our Service, where they have given marks of their Fidelity, Application and Addreſs in the management of Affairs; for theſe Cauſes and other Conſiderations us mo<g ref="char:EOLhyphen"/>ving thereunto, we have commiſſionated, ordered and deputed the ſaid Sieurs <hi>Boreel, de Weede</hi> and <hi>de Haren,</hi> and we do by theſe Preſents commiſ<g ref="char:EOLhyphen"/>ſion, order and depute, and have given, and do give unto them full Power, Commiſſion and ſpecial Order to go to <hi>Rijſwick,</hi> in Quality of our Extra<g ref="char:EOLhyphen"/>ordinary Embaſſadors and Plenipotentiaries for the Peace, and there to Confer either directly or by the interpoſition of the Embaſſadors Media<g ref="char:EOLhyphen"/>tors, reſpectively received and agreed upon, with the Extraordinary Em<g ref="char:EOLhyphen"/>baſſadors and Plenipotentiaries of his moſt Chriſtian Majeſty and his Al<g ref="char:EOLhyphen"/>lies, furniſhed with ſufficient Powers for the ſame, and there to treat upon the means of terminating and pacifying thoſe Differences, which cauſe the War at this Day; and our ſaid Embaſſadors and Plenipotentiaries may all three together, or two of them, in caſe of the abſence of the other thro' Sickneſs or ſome other Impediment, or one only, in the abſence of the o<g ref="char:EOLhyphen"/>ther two upon the like accounts of Sickneſs or other Impediment, agree, and thereupon conclude and ſign a good and firm Peace, and generally negotiate, promiſe and conſent to all that they ſhall think neceſſary for the effecting of the ſaid Peace, and generally do whatever we ourſelves might do, were we actually preſent there, altho' it were requiſite for that end to have a more eſpecial Power and Order, than what is contained in theſe Preſents; we promiſing ſincerely and in good truth to hold all that for firm, ſtable and ſatisfactory, which by our ſaid Embaſſadors and Pleni<g ref="char:EOLhyphen"/>potentiaries, or any two of them in caſe of the Sickneſs, Abſence, or other Impediment of the third, or by any one of them, in the abſence of the other two, upon the like account of Sickneſs or other Impeaiment, ſhall be ſtipulated, promiſed and agreed to, and to cauſe our Letters of
+<pb n="19" facs="tcp:154053:12"/>Ratification to be diſpatcht thereupon, within the time they ſhall promiſe in our Name to produce the ſame. Given in our Aſſembly at the <hi>Hague,</hi> under our Great Seal. Signed by the Preſident of our Aſſembly, and ſigned by our Secretary, <hi>April</hi> 6. 1697. It was ſigned <hi>F. B. de Reede,</hi> and upon the Fold was written, By the Order of the ſaid Lords the States Ge<g ref="char:EOLhyphen"/>neral. It was ſigned <hi>F. Fagel,</hi> and ſealed with the Great Seal in Red Wax.</p>
+               <p>THe States General of the United Provinces of the <hi>Low Countries,</hi> to all thoſe to whom theſe Preſents ſhall come, Greeting: As we deſire nothing more ardently than to ſee the War wherewith Chriſtendom is at preſent afflicted, terminated by a good Peace, and that by the Care and Mediation of the moſt Serene King of <hi>Sweden,</hi> all Parties have agreed upon <hi>Rijſwick</hi> to be the Place where the Conferences ſhall be held, and we being incited with this ſame deſire, of putting an end, as much as in us lies, to the Deſolation of ſo many Provinces, and the Effuſion of ſo much Chriſtian Blood, are willing to contribute all that we can do there<g ref="char:EOLhyphen"/>unto; and for this end we have already deputed formerly ſome Perſons of our own Body, in quality of Extraordinary Embaſſadors and Plenipo<g ref="char:EOLhyphen"/>tentiaries in the ſaid Aſſembly, who have given diverſe Proofs of the Knowledge and Experience they have in Publick Affairs, as well as the Affection they retain for the Welfare of our State; to wit, the Sieurs <hi>James Boreel,</hi> Lord of <hi>Duynbeek, Weſthove</hi> and <hi>Mereſtein,</hi> Senator and Burgomaſter of the City of <hi>Amſterdam,</hi> and the deputed Councellor of the Province of <hi>Holland; Everhard de Weede,</hi> Lord of <hi>Weede, Dijckvelt, Rateles,</hi> &amp;c. Lord Proprietor of the Town of <hi>Oudewater,</hi> Dean and Rector of the Imperial Chapter of <hi>
+                     <g ref="char:V">Ʋ</g>trecht,</hi> Dijck-Grave of the River <hi>Rhine</hi> in the Province of <hi>
+                     <g ref="char:V">Ʋ</g>trecht,</hi> Preſident of the States of the ſaid Province; and <hi>William de Haren,</hi> Grietman of <hi>Bilt,</hi> the Nobilities Deputy to the States of <hi>Frieſland,</hi> and Curator of the Univerſity of <hi>Franeker,</hi> Deputies in our Aſſembly from the States of <hi>Holland, <g ref="char:V">Ʋ</g>trecht</hi> and <hi>Frieſland;</hi> and as at preſent we have thought fit to joyn a fourth Perſon to our above-named three Embaſſadors Extraordinary and Plenipotentiaries, for the very ſame effect; and that the Sieur <hi>Antony Heinſius,</hi> Councellor and Penſionary of the States of <hi>Holland</hi> and <hi>West-Frieſland,</hi> Keeper of the Great Seal, Su<g ref="char:EOLhyphen"/>perintendant of the Fiefs, and Deputy in our Aſſembly for the ſame Pro<g ref="char:EOLhyphen"/>vince, hath ſignalized himſelf for our Service in ſeveral important Im<g ref="char:EOLhyphen"/>ployments, wherein he hath given Proofs of his Fidelity, Application and Addreſs in the Management of Buſineſs; for theſe Cauſes and other Con<g ref="char:EOLhyphen"/>fiderations moving us thereunto, we have commiſſionated, ordered and deputed the ſaid Sieur <hi>Heinſius,</hi> we do commiſſion, order and depute by theſe Preſents, and have given and do give unto him full Power, Commiſ<g ref="char:EOLhyphen"/>ſion and ſpecial Order to go to <hi>Rijſwick</hi> in quality of our Embaſſador Ex<g ref="char:EOLhyphen"/>traordinary and Plenipotentiary for the Peace, and there to confer either immediately, or by the interpoſition of the Embaſſadors Mediators, reſpe<g ref="char:EOLhyphen"/>ctively received and agreed on, with the Embaſſadors Extraordinary and Plenipotentiaries of his moſt Chriſtian Majeſty and his Allies, furniſhed
+<pb n="20" facs="tcp:154053:13"/>with ſufficient Powers for the ſame, and to treat upon the Means how to terminate and pacifie the Differences, which occaſion the War at this Day; and our ſaid Embaſſador and Plenipotentiary may together with the ſaid Sieurs <hi>Boreel, de Weede</hi> and <hi>de Haren,</hi> our three other Embaſſadors Extra<g ref="char:EOLhyphen"/>ordinary and Plenipotentiaries, or with two or one of them, in caſe of the abſence of the reſt, through Sickneſs or other Impediment, or even alone in the abſence of all the three, in caſe of the like Sickneſs or other Impediment, agree and thereupon conclude and ſign a good and firm Peace; and, in general, negotiate, promiſe and conſent to all that he ſhall think neceſſary for effecting the ſaid Peace, and generally do what<g ref="char:EOLhyphen"/>ever we our ſelves might do were we our ſelves there actually preſent, although for that end it might be requiſite he ſhould have a Power and more ſpecial Order than what is contained in theſe Preſents; we promi<g ref="char:EOLhyphen"/>ſing ſincerely and in good truth, to hold all that firm, ſtable and ſatisfa<g ref="char:EOLhyphen"/>ctory, which the ſaid Sieur <hi>Heinſius,</hi> together with our other three Embaſ<g ref="char:EOLhyphen"/>ſadors and Plenipotentiaries, or with any two or one of them, in caſe of the Sickneſs, Abſence or other Impediment of the reſt, or even alone in the abſence of all three, upon the like account of Sickneſs or other Impedi<g ref="char:EOLhyphen"/>ment, ſhall ſtipulate, promiſe and agree to, and to expedite our Letters of Ratification of the ſame within the time he ſhall promiſe in our Name to produce the ſame. Given at the <hi>Hague,</hi> in our Aſſembly, under the Great Seal; ſigned by the Preſident of our Aſſembly, and ſealed by our Secre<g ref="char:EOLhyphen"/>tary, <hi>Aug.</hi> 5. <hi>Anno</hi> 1697. Signed <hi>F. B. de Reede,</hi> as upon the Fold it was written, By the Order of the ſaid Lords the States General. It was ſigned, <hi>F. Fagel,</hi> and ſealed with the Great Seal in Red Wax.</p>
+            </div>
+            <div type="part">
+               <head>Here follows his most Chriſtian Majeſty's Ratification of the Treaty of Commerce, Navigation and Marine Affairs.</head>
+               <p>
+                  <hi>LEwis,</hi> by the Grace of God King of <hi>France</hi> and <hi>Navarre,</hi> to all thoſe to whom theſe Preſents ſhall come, Greeting: As our well-beloved and faithful Councellor in Ordinary in our Council of State, <hi>Nicholas Auguſtus de Harlay,</hi> Knight, Lord of <hi>Bonneuil,</hi> Count of <hi>Cely;</hi> our dear and well-beloved <hi>Lewis Verjus,</hi> Knight, Count of <hi>Crecy,</hi> Marqueſs of <hi>Treon,</hi> Baron of <hi>Couvay,</hi> Lord of <hi>Boulay,</hi> of the two Churches of <hi>Fortiſle</hi> and of <hi>Mevil<g ref="char:EOLhyphen"/>let;</hi> and our dear and well-beloved <hi>Francis de Callieres,</hi> Knight, Lord of <hi>la Roche-Chellay</hi> and of <hi>Gigny,</hi> our Embaſſadors Extraordinary and Pleni<g ref="char:EOLhyphen"/>potentiaries, by vertue of the full Powers we have given them, have con<g ref="char:EOLhyphen"/>cluded, finiſhed and ſigned on the 20th of <hi>September</hi> laſt at <hi>Riſſwick,</hi> with the Sieurs <hi>Antony Heinſius,</hi> Councellor and Penſionary of the States of <hi>Hol<g ref="char:EOLhyphen"/>land</hi> and <hi>West-Frieſland,</hi> Keeper of the Great Seal and Superintendant of the Fiefs in the ſame Province; <hi>Everhard de Weede,</hi> Lord of <hi>Weede, Dijck<g ref="char:EOLhyphen"/>velt,</hi> and <hi>Rateles,</hi> &amp;c. Lord Proprietor of the Town of <hi>Oudewater,</hi> Dean and Rector of the Imperial Chapter of St. <hi>Mary</hi> at <hi>
+                     <g ref="char:V">Ʋ</g>trecht,</hi> Dijck-Grave of the River <hi>Rhine</hi> in the Province of <hi>
+                     <g ref="char:V">Ʋ</g>trecht,</hi> Preſident of the States of the ſaid Province; and <hi>William de Haren,</hi> Grietman of <hi>Bilt,</hi> the Nobili<g ref="char:EOLhyphen"/>ties
+<pb n="21" facs="tcp:154053:13"/>Deputy to the States of <hi>Frieſland,</hi> and Curator of the Univerſity of <hi>Franeker,</hi> Deputies in their Aſſembly on the behalf of the States of <hi>Holland, <g ref="char:V">Ʋ</g>trecht</hi> and <hi>Frieſland,</hi> in quality of Embaſſadors Extraordinary and Pleni<g ref="char:EOLhyphen"/>potentiaries of our moſt dear and great Friends the States General of the United Provinces of the <hi>Low Countries,</hi> in like manner furniſhed with full Powers, the Treaty of Commerce, Navigation and Marine Affairs.</p>
+               <div type="addendum">
+                  <head>Fiat Inſertio.</head>
+                  <p>We being ſatisfied with the ſaid Treaty of Commerce, Navigation and Marine Affairs, in all and every of the Points and Articles that are con<g ref="char:EOLhyphen"/>tained and ſet forth therein, have as well for our ſelves, as for our Heirs, Succeſſors, Kingdoms, Countries, Territories, Seigniories and Subjects, accepted, approved, ratified and confirmed, do accept, approve, ratifie and confirm the ſame, and fully promiſe upon the Faith and Word of a King, under the Obligation and Pledge of all and every our Poſſeſſions at preſent and to come, to keep and obſerve it inviolably, without ever going or act<g ref="char:EOLhyphen"/>ing to the contrary, either directly or indirectly, in any manner whatſo<g ref="char:EOLhyphen"/>ever: In witneſs whereof we have ſigned theſe Preſents with our own Hand, and cauſed it to be ſealed with our Seal. Given at <hi>Fountainbleau,</hi> the 3d of <hi>October, Anno</hi> 1697; and of our Reign fifty five. It was ſigned <hi>Lovis;</hi> and a little lower, By the King's Command. Signed, <hi>Colbert.</hi>
+                  </p>
+               </div>
+            </div>
+            <div type="part">
+               <head>Here follows the Ratification of the Lords the States General of the <g ref="char:V">Ʋ</g>nited Provinces of the <hi>Low Countries,</hi> of the Treaty of Com<g ref="char:EOLhyphen"/>merce, Navigation and Marine Affairs.</head>
+               <p>THe States General of the United Provinces of the <hi>Low Countries,</hi> to all thoſe to whom theſe Preſents ſhall come, Greeting: As there has been on the 20th of <hi>September,</hi> this preſent Year 1697, A Treaty of Com<g ref="char:EOLhyphen"/>merce, Navigation and Marine Affairs agreed and concluded at <hi>Rijſwick</hi> in <hi>Holland,</hi> by the Sieur <hi>Nicholas Auguſtus de Harlay,</hi> Kt. Lord of <hi>Bonneuil,</hi> Count of <hi>Celi,</hi> Councellor in Ordinary to his moſt Chriſtian Majeſty in his Council of State; the Sieur <hi>Lovis Verjus,</hi> Knight, Count of <hi>Crecy,</hi> Councellor in Ordinary to the King in his Council of State, Marqueſs of <hi>Treon,</hi> Baron of <hi>Couvay,</hi> Lord of <hi>Boulay,</hi> of the two Churches of <hi>Fortiſle,</hi> of <hi>Mevillet</hi> and other places; and the Sieur <hi>Francis de Callieres,</hi> Knight, Lord of <hi>Callieres, la Roche-Chellay</hi> and <hi>Gigny;</hi> his moſt Chriſtian Majeſty's Embaſſadors Extraordinary and Plenipotentiaries in the Aſſembly at <hi>Rijſ<g ref="char:EOLhyphen"/>wick,</hi> in the Name and on the Part of his ſaid Majeſty; And by the Sieurs <hi>Antony Heinſius,</hi> Councellor and Penſionary of the States of <hi>Holland</hi> and <hi>West-Frieſland,</hi> and Keeper of the Great Seal, and Superintendant of the Fiefs in the ſaid Province; <hi>Everhard de Weede,</hi> Lord of <hi>Weede, Dijck<g ref="char:EOLhyphen"/>velt, Rateles,</hi> and other places, Lord Proprietor of the Town of <hi>Oudewa<g ref="char:EOLhyphen"/>ter,</hi> Dean and Rector of the Imperial Chapter of St. <hi>Mary</hi> at <hi>
+                     <g ref="char:V">Ʋ</g>trecht,</hi> Dijk-Grave of the <hi>Rhine</hi> in the Province of <hi>
+                     <g ref="char:V">Ʋ</g>trecht,</hi> Preſident of the States of the ſaid Province; and <hi>William de Haren,</hi> Grietman of <hi>Bilt,</hi> the Nobi<g ref="char:EOLhyphen"/>lities
+<pb n="22" facs="tcp:154053:14"/>Deputy to the States of <hi>Frieſland,</hi> and Curator of the Univerſity of <hi>Francker,</hi> Deputies in our Aſſembly for the States of <hi>Holland, <g ref="char:V">Ʋ</g>trecht</hi> and <hi>Frieſtand,</hi> our Embaſſadors Extraordinary and Plenipotentiaries in the ſaid Aſſembly of <hi>Rijſwick,</hi> in our Name and on our Part, and by Vertue of their reſpective full Powers, of which Treaty the Tenour follows:</p>
+               <div type="addendum">
+                  <head>Fiat Inſertio.</head>
+                  <p>And foraſmuch as the Contents of the ſaid Treaty doth import, That the Ratifications of the ſame ſhould be executed in due form, and ex<g ref="char:EOLhyphen"/>changed on either part in the ſpace of three Weeks, or ſooner if it could be done, computing it from the Day of ſigning; we being very deſirous to give Inſtances of our Sincerity, and to diſcharge our Word, which our ſaid Embaſſadors have given for us, have allowed, approved and ra<g ref="char:EOLhyphen"/>tified the ſaid Treaty, and every Article thereof afore tranſcribed, as we do allow, approve and ratifie it by theſe Preſents; promiſing in good Faith and Sincerity to keep, maintain and obſerve it inviolably, Point by Point, according to the Tenour and Form thereof, without ever going or acting to the contrary, either directly or indirectly, in any ſort or way whatſoever. In witneſs whereof we have cauſed theſe Preſents to be ſign<g ref="char:EOLhyphen"/>ed by the Preſident of our Aſſembly, counterſigned by our Secretary, and affixed our Great Seal thereunto. Given at the <hi>Hague, Octob.</hi> 10. 1697.</p>
+               </div>
+            </div>
+            <div type="part">
+               <head>Here follows his most Chriſtian Majeſty's Ratification of the ſeparate Article.</head>
+               <p>
+                  <hi>LEwis,</hi> by the Grace of God King of <hi>France</hi> and <hi>Navarre,</hi> to all thoſe to whom theſe Preſents ſhall come, Greeting: Having ſeen and exa<g ref="char:EOLhyphen"/>mined the ſeparate Article, which our well-beloved and faithful Councel<g ref="char:EOLhyphen"/>lor in Ordinary in our Council of State, <hi>Nicholas Auguſtus de Harlay,</hi> Knight, Lord of <hi>Bonneuil,</hi> Count of <hi>Celi;</hi> our moſt dear and well-be-loved <hi>Lovis Verjus,</hi> Knight, Count of <hi>Crecy,</hi> Marqueſs of <hi>Treon,</hi> Baron of <hi>Couvay,</hi> Lord of <hi>Boulay,</hi> of the two Churches of <hi>Fortiſle</hi> and of <hi>Mou<g ref="char:EOLhyphen"/>illet;</hi> and our dear and well-beloved <hi>Francis de Callieres,</hi> Kt. Lord of <hi>la Roche-Chellay</hi> and <hi>Gigny,</hi> our Embaſſadors Extraordinary and Plenipo<g ref="char:EOLhyphen"/>tentiaries, by Vertue of the full Powers we have given them, have con<g ref="char:EOLhyphen"/>cluded, agreed and ſigned on the 20th of <hi>September</hi> laſt at <hi>Rijſwick,</hi> with the Sieurs <hi>Antony Heinſius,</hi> Councellor and Penſionary of <hi>Holland</hi> and <hi>West-Frieſland,</hi> Keeper of the Great Seal, and Superintendant of the Fiefs; <hi>Everhard de Weede,</hi> Lord of <hi>Weede, Dickvelt, Rateles,</hi> &amp;c. Lord Proprietor of the Town of <hi>Oudewater,</hi> Dean and Rector of the Imperial Chapter of St. <hi>Mary</hi> at <hi>
+                     <g ref="char:V">Ʋ</g>trecht,</hi> Dijck-Grave of the <hi>Rhine</hi> in the Pro<g ref="char:EOLhyphen"/>vince of <hi>
+                     <g ref="char:V">Ʋ</g>trecht,</hi> and Preſident of the States of the ſaid Province; and <hi>William de Haren,</hi> Grietman of <hi>Bilt,</hi> the Nobilities Deputy to the States of <hi>Frieſland,</hi> and Curator of the Univerſity of <hi>Franeker,</hi> Deputies in their Aſſembly for the States of <hi>Holland, <g ref="char:V">Ʋ</g>trecht</hi> and <hi>Frieſland,</hi> in the quality of Embaſſadors Extraordinary and Plenipotentiaries of our moſt dear and
+<pb n="23" facs="tcp:154053:14"/>great Friends, the States General of the United Provinces of the <hi>Low Countries,</hi> in like manner furniſhed with full Powers, of which ſeparate Article the Tenour follows:</p>
+               <div type="addendum">
+                  <head>Fiat Inſertio.</head>
+                  <p>We being ſatisfied with the ſaid ſeparate Article in all the Contents thereof, have allowed, approved and ratified, and do allow, approve and ratifie the ſame by theſe Preſents, ſigned with our own Hand, promiſing, in the Faith and Word of a King, to accompliſh and obſerve, and cauſe the ſame to be obſerved ſincerely and in good truth, without ever ſuffer<g ref="char:EOLhyphen"/>ing, either directly or indirectly, the violation thereof, for any Cauſe and upon any Account whatſoever: In Witneſs whereof, we have ſigned theſe Preſents, and ſet thereunto our Seal. Given at <hi>Fountainbleau,</hi> the 3d of <hi>October,</hi> in the Year of Grace, 1697. and of our Reign fifty five. It was ſigned <hi>Lovis,</hi> a little lower, By the King's Command. Signed, <hi>Colbert.</hi>
+                  </p>
+               </div>
+            </div>
+            <div type="part">
+               <head>Here follows the Ratification of the Lords the States General of the <g ref="char:V">Ʋ</g>nited Provinces of the <hi>Low Countries,</hi> of the ſeparate Article.</head>
+               <p>THe States General of the United Provinces of the <hi>Low Countries,</hi> to whom theſe preſents ſhall come, Greeting: Seeing it is ſo, that be<g ref="char:EOLhyphen"/>ſides the Treaty of Commerce, that was agreed and concluded at <hi>Rij<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>wick</hi> in <hi>Holland,</hi> on the 20th of <hi>September</hi> this Year 1697, there was alſo a ſeparate Article, made by the Sieur <hi>Nicholas de Harlay,</hi> Knight, Lord of <hi>Bonneuil,</hi> Count of <hi>Celi,</hi> Councellor in Ordinary to his moſt Chriſtian Majeſty in his Council of State; the Sieur <hi>Louis Verjus,</hi> Knight, Count of <hi>Crecy,</hi> Councellor in Ordinary to the King in his Council of State, Marqueſs of <hi>Treon,</hi> Baron of <hi>Couvay,</hi> Lord of <hi>Boulay,</hi> of the two Churches of <hi>Fortiſle,</hi> of <hi>Meuillet,</hi> and other Places; and the Sieur <hi>Francis de Callieres,</hi> Knight, Lord of <hi>Callieres, de la Roche-Chellay,</hi> and of <hi>Gigny,</hi> his moſt Chriſtian Majeſty's Embaſſadors Extraordinary, and Plenipo<g ref="char:EOLhyphen"/>tentiaries in the Aſſembly at <hi>Rijſwick:</hi> And by the Sieur <hi>Anthony Heinſi<g ref="char:EOLhyphen"/>us,</hi> Councellor and Penſionary of the States of <hi>Holland</hi> and <hi>West-Frieſ<g ref="char:EOLhyphen"/>land,</hi> Keeper of the Great Seal, and Superintendant of the Fiefs of the ſaid Province; <hi>Everhard de Weede,</hi> Lord of <hi>Weede, Dijckvelt, Rateles,</hi> and other Places, Lord Proprietor of the Town of <hi>Oudewater,</hi> Dean and Re<g ref="char:EOLhyphen"/>ctor of the Imperial Chapter of St. <hi>Mary</hi> at <hi>
+                     <g ref="char:V">Ʋ</g>tretcht,</hi> Dijck-Grave of the <hi>Rhine</hi> within the ſaid Province, Preſident of the States of the ſaid Province; and <hi>William de Haren,</hi> Grietman of <hi>Bilt,</hi> the Nobilities Deputy to the States of <hi>Frieſland,</hi> and Curator to the Univerſity of <hi>Franeker,</hi> Deputies in our Aſſembly at <hi>Rijſwick,</hi> in our Name, and on our Part, by Vertue of their reſpective full Powers, of which ſeparate Article the Tenour follows:</p>
+               <div type="addendum">
+                  <pb n="24" facs="tcp:154053:15"/>
+                  <head>Flat Inſertio.</head>
+                  <p>We being ſatisfied with the ſaid ſeparate Article, have approved and ratified it, and do allow, approve and ratifie the ſame by theſe Preſents, as much as if it were inſerted in the ſaid Treaty of Commerce, promiſing inviolably to keep, maintain and obſerve all that is contained therein, without ever going or acting either directly or indirectly to the contrary, under any pretence whatſoever: In Witneſs whereof, We have cauſed theſe Preſents to be ſigned by the Preſident of our Aſſembly, counter<g ref="char:EOLhyphen"/>ſigned by our Secretary, and affixed our Great Seal thereunto. Given at the <hi>Hague, Octob.</hi> 10th, <hi>An.</hi> 1697.</p>
+               </div>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
